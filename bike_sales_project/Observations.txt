@@ -1,0 +1,22 @@
+Observations :-
+
+1. To summarize, males and females who purchased bike have higher income than those who didn't
+   which makes sense. In general, it is seen that males earn more than females.
+
+2. As expected, the middle-aged people purchased more bikes than adolescent or old groups
+
+3. Surprisingly, people who commute 0-1 miles recorded higher purchase count than people who
+   travel higher distances. Maybe, people who travel larger distance opted for cars or maybe
+   data is not sufficient for categories beyond 0-1 miles.
+
+4. Region wise, Europe has lower incomes recorded compared to others by approx. 15k.
+
+5. There is a huge gap between incomes of females and males with bachelor's degree (approx. 3000k)
+   with females earning more than males
+
+6. Purchase count in north america is highest for 2-5 miles category with people having bachelors/graduate degree.
+
+7. People with bachelors degree in Europe recorded highest purchase count.
+
+8. In a nutshell, single people preferred bikes more compared to married people.
+   Maybe, married couples prefer cars over bikes.  
