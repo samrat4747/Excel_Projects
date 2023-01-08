@@ -1,3 +1,11 @@
+Skills :-
+
+1. Data Cleaning
+
+2. Pivot Tables
+
+3. Dashboard building
+
 Observations :-
 
 1. To summarize, males and females who purchased bike have higher income than those who didn't
